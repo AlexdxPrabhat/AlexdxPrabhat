@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexdxprabhat&label=Profile%20views&color=0e75b6&style=flat" alt="alexdxprabhat" /> </p>
 
-- 🔭 I’m currently working on [StudySync](https://alexdxprabhat.github.io/StudySync/)
+- 🔭 I’m currently working on [StudySync]( https://razorpayclone-49d17.web.app)
 
 - 🌱 I’m currently learning **MernStack**
 
